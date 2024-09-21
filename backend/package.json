@@ -1,0 +1,30 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Axrorbek Dev",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "docx": "^8.5.0",
+    "docx-templates": "^4.13.0",
+    "docxtemplater": "^3.50.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "express-rate-limit": "^7.4.0",
+    "express-validator": "^7.2.0",
+    "fs": "^0.0.1-security",
+    "helmet": "^7.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.11.3",
+    "path": "^0.12.7",
+    "pdfkit": "^0.15.0",
+    "pizzip": "^3.1.7",
+    "sequelize": "^6.37.3"
+  },
+  "description": ""
+}
